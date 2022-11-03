@@ -1,0 +1,105 @@
+@charset "UTF-8";
+* {
+  scroll-behavior: smooth;
+}
+body {
+  background-color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  
+}
+header {
+  color: white;
+  background-image: img("mm.jpg");
+  padding: 100px;
+  text-align: center;
+}
+
+.container{
+  display: flexbox;
+}
+a {
+  color: white;
+}
+h2 {
+  text-align: center;
+  color: white;
+  
+}
+p {
+  text-align: justify;
+  color: white;
+  font-size: 20px;
+}
+.casos {
+  background-color: #034a63;
+  padding: 30px 0px;
+  color: white;
+}
+
+.malw {
+  background-color: #034a63;
+  padding: 30px 0px;
+  color: white;
+}
+.dif {
+  background-color: #034a63;
+  padding: 30px 0px;
+  color: white;
+}
+.sup {
+  background-color: #034a63;
+  padding: 30px 0px;
+  color: white;
+}
+.virus {
+  background-color: #034a63;
+  padding: 30px 0px;
+  color: white;
+}
+.prot {
+  background-color: #034a63;
+  padding: 30px 0px;
+  color: white;
+}
+.evit {
+  background-color: #034a63;
+  padding: 30px 0px;
+  color: white;
+}
+form {
+  padding: 30px 0px;
+  background-color: #034a63;
+  text-align: center;
+  color: white;
+}
+.supii {
+  padding: 30px 0px;
+  background-color: #034a63;
+  color: white;
+}
+.dispositivos {
+  padding: 30px 0px;
+  background-color: #034a63;
+  color: white;
+}
+
+.dispositivos-hold {
+  background-color: white;
+  padding: 6px 0px;
+}
+
+.radios {
+  display: flex;
+  justify-content: center;
+}
+
+.radios-in {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+  min-width: 100px;
+}
+.voltartopo {
+  background-color: #034a63;
+  padding: 6px 0px;
+}
